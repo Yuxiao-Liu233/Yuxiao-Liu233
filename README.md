@@ -51,9 +51,8 @@
 
 ---
 
-### 🌏 From Bristol to Hong Kong
 
-A new chapter, a new city, and plenty more code to write.
+
 
 I previously used **[@Yuxiao-Liu23](https://github.com/Yuxiao-Liu23)** during my undergraduate years at Bristol. **[@Yuxiao-Liu233](https://github.com/Yuxiao-Liu233)** is now my main account for current projects and new experiments.
 
